@@ -1,0 +1,3 @@
+pyinstaller Remote_Control.py --onefile
+
+python Remote_Control.py
